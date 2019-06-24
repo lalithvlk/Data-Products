@@ -1,0 +1,12 @@
+name: mtcars-shiny
+title: mtcars-shiny
+username:
+account: lalithvlk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 995192
+bundleId: 2173866
+url: https://lalithvlk.shinyapps.io/mtcars-shiny/
+when: 1561372996.68945
+asMultiple: FALSE
+asStatic: FALSE
